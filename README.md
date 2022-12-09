@@ -13,7 +13,7 @@ About me:
 
 Skills & strengths:
 
-👨‍💻 C# and Java programming 
+👨‍💻 C#, Java and Kotlin programming 
 
 📱 Web and Mobile Application development
 
