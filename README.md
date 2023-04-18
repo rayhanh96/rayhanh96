@@ -2,7 +2,7 @@ About me:
 
 📍 Based in London, United Kingdom
 
-👨‍💻 Work as a software engineering trainee
+👨‍💻 Work as a software engineer
 
 🤖 Three years experience in the AI industry
 
