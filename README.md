@@ -13,8 +13,7 @@ About me:
 
 Skills & strengths:
 
-👨‍💻 C#, Java and Kotlin programming 
+👨‍💻 Java and Kotlin programming 
 
-📱 Web and Mobile Application development
+📱 Web platforms, Microservices & Event-driven architectures
 
-🎮 Unity game engine 
